@@ -1,4 +1,4 @@
-#Add a comma after each line of a text file automattically
+#Add a comma after each line of a text file automatically
 
 '''
 In order to use this piece of software, you will need to first paste all the emails into emails.txt. 
