@@ -29,5 +29,6 @@ def main():
             f.write(line + ",\n")
         f.close()
 
+main()
 
 print("Your emails are done formatting")
